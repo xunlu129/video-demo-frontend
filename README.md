@@ -2,7 +2,7 @@
 
 ## 说明
 
-本开源代码是我在做弹幕视频网站过程中的练手项目，所以很多功能都没写全，只写了关键部分，本仓库只是demo的前端部分，需要与后端代码结合来看，后端代码请移步：[分片上传以及流式播放的简单示例后端（springboot2.7 + mybatis-plus）](https://github.com/xunlu129/video-demo-frontend)
+本开源代码是我在做弹幕视频网站过程中的练手项目，所以很多功能都没写全，只写了关键部分，本仓库只是demo的前端部分，需要与后端代码结合来看，后端代码请移步：[分片上传以及流式播放的简单示例后端（springboot2.7 + mybatis-plus）](https://github.com/xunlu129/video-demo-backend)
 
 ## 技术栈
 
